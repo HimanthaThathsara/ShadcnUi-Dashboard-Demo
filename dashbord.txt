@@ -1,0 +1,50 @@
+dashbord
+ -- Total power consumption in Volts 🚩
+ -- Backup power status 🚩
+ -- Generator fuel status 🚩
+ -- Power downtime 🚩
+ -- Overall runtime ( Battery / generator / main power) 🚩
+
+
+power supply
+ -- Ac/Dc Voltage in Volts 🚩
+ -- power frequency in Hz 🚩
+ -- Power Distor 🚩
+ -- Minimum voltage in specific Timeline 🚩
+ -- Maximum voltage in specific Timeline 🚩
+ -- Voltage status (derived two hour) (max / min / avg) 🚩
+
+
+Generate a Fuel level
+ -- Fuel level percentage
+ -- Actual full volume in tank ( User determined )
+ -- Fuel level status
+ -- Oil temperature
+
+Backup battery data
+ -- Battery voltage in volts
+ -- Charging or discharging status With drawing current
+ -- Power in Volts
+ -- Battery temperature
+ -- Appropriate charging circle detect by user
+ -- Wasted circle counts
+ -- Discharge time labs by analyzing wasted cycle count
+
+
+
+https://ant-design-charts.antgroup.com/en/examples
+
+
+https://reactflow.dev/showcase
+https://react-charts.tanstack.com/
+https://recharts.org/en-US
+
+
+https://reaviz.dev/docs/charts/word-cloud
+https://charts.carbondesignsystem.com/introduction
+
+
+
+
+https://apexcharts.com/react-chart-demos/
+https://mui.com/x/react-charts/bars/
